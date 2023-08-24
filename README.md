@@ -51,9 +51,7 @@
 <p>
   <h3 align="center">Support:</h3>
   <p>
-    <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
+    Right now, please follow me: MESSIIIIIII NUMBER ONE
   </p>
 </p>
    
@@ -83,7 +81,3 @@
 <br>
 <br>
 
------
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
-
-Last Edited on: 23/09/2021
