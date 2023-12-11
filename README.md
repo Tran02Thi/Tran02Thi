@@ -45,7 +45,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a> 
     <a href="https://docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="selenium" width="40" height="40"/> </a> 
-    <a href="https://www.getdbt.com" target="_blank"> <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" alt="dbt" width="40" height="40"/> </a> 
+    <a href="https://www.getdbt.com" target="_blank"> <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Dbt-900x0.png" alt="dbt" width="55" height="40"/> </a> 
+     <a href="https://trino.io/" target="_blank"> <img src="https://ww2.freelogovectors.net/wp-content/uploads/2022/03/trino_logo_freelogovectors.net_.png?lossy=1&ssl=1" alt="dbt" width="35" height="35"/> </a>
+    <a href="https://dagster.io/" target="_blank"> <img src="https://dagster.io/images/brand/logos/dagster-primary-vertical.png" alt="dbt" width="50" height="40"/> </a>
 <!-- SUPPORT -->
 <hr>
 <p>
