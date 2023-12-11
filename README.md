@@ -3,12 +3,12 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=I'm+Messi+2.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=I'm+Tran+Van+Thi)](https://git.io/typing-svg)
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
     <h4 align="center">
-      <span align="center">Tran Van Thi</span>
+      <span align="center">Messi 2.0</span>
     </h4>
 </span>
 
@@ -34,11 +34,10 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -48,33 +47,3 @@
     <a href="https://www.getdbt.com" target="_blank"> <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Dbt-900x0.png" alt="dbt" width="55" height="40"/> </a> 
      <a href="https://trino.io/" target="_blank"> <img src="https://ww2.freelogovectors.net/wp-content/uploads/2022/03/trino_logo_freelogovectors.net_.png?lossy=1&ssl=1" alt="dbt" width="35" height="35"/> </a>
     <a href="https://dagster.io/" target="_blank"> <img src="https://dagster.io/images/brand/logos/dagster-primary-vertical.png" alt="dbt" width="50" height="40"/> </a>
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    Right now, please follow me: MESSIIIIIII NUMBER ONE
-  </p>
-</p>
-   
-<!-- GITHUB STATS -->
-<hr>
-<div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-
-</p>
-</div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
